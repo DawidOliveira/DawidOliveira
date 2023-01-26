@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is **Dáwid Oliveira**, i'm 22, i'm computer technician graduated from the Federal Institute of Alagoas, graduating in Computer Science at the Federal University of Alagoas and Flutter developer.
+My name is **Dáwid Oliveira**, i'm 23, i'm computer technician graduated from the Federal Institute of Alagoas, graduating in Computer Science at the Federal University of Alagoas and Flutter developer.
 
 - 🔭 I’m currently working with **Flutter** at [Kobe](https://www.kobe.io/)
 - 🌱 I'm always looking to learn more about Flutter
